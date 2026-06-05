@@ -9,5 +9,5 @@
     "minGameVersion": 154,
     "repo": "slotterleet/a-lot-of-damage",
     "java": true,
-    "hidden": true
+    "hidden": false
 }
