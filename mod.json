@@ -1,8 +1,8 @@
 {
     "name": "alod",
-    "displayName": "A Lot of Damage!",
+    "displayName": "A Lot of Damage! Fanmade V8",
     "subtitle": "Neuron activation.",
-    "author": "Slotterleet",
+    "author": "Definitely NOT Slotterleet",
     "main": "alod.ALODMod",
     "description": "A Mindustry mod for showing damage numbers.",
     "version": "1.0.5",
